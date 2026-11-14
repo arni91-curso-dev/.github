@@ -9,6 +9,7 @@ Programar dirigiendo agentes de IA con método: contexto (AGENTS.md, memoria, sk
 - [MyStudyDiary](https://github.com/arni91-curso-dev/MyStudyDiary): diario de estudio con racha de días seguidos, estadísticas de la semana y del mes, y mapa de calor de 12 semanas. HTML, CSS y JavaScript sin dependencias, con 47 tests (`node --test`) y todo el proceso SDD en `specs/`.
 
 ## Bootcamp de desarrollo web en Ironhack (2025)
+
 Todos los ejercicios y proyectos que hice en el bootcamp de desarrollo web de Ironhack, entre abril y septiembre de 2025.
 
 En el backend trabajé con Java, Spring Boot, JPA/Hibernate, MySQL, JUnit y MockMvc. En el frontend, con React, Vite, React Router y Supabase.
