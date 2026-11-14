@@ -6,7 +6,7 @@ Ejercicios y proyectos de los cursos que hago para aprender. Mis proyectos perso
 
 Programar dirigiendo agentes de IA con método: contexto (AGENTS.md, memoria, skills, MCP) y Spec-Driven Development (constitución, spec en EARS, plan, tareas, implementación con tests primero y validación).
 
-- [MyStudyDiary](https://github.com/arni91-curso-dev/MyStudyDiary): diario de estudio con racha de días seguidos, estadísticas de la semana y del mes, y mapa de calor de 12 semanas. HTML, CSS y JavaScript sin dependencias, con 47 tests (`node --test`) y todo el proceso SDD en `specs/`.
+- [MyStudyDiary](https://github.com/arni91-curso-dev/MyStudyDiary): diario de estudio con racha de días seguidos, estadísticas de la semana y del mes, y mapa de calor de 12 semanas. HTML, CSS y JavaScript sin dependencias, con 50 tests (`node --test`) y todo el proceso SDD en `specs/`.
 
 ## Bootcamp de desarrollo web en Ironhack (2025)
 
